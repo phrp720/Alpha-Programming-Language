@@ -3,7 +3,7 @@ Alpha Programming Language based on Delta (https://projects.ics.forth.gr/hci/fil
 
 The languge resembles a subset of Javascript, and runs on a virtual machine (the coding of which was the last part of the project).
 
-The team consisted of three members (Phillip Papadakis https://github.com/phrp720 and  Yfantis Evaggelos https://github.com/octoper) and the work was more or less equally distributed. This repo is a public read-only copy of the original, created for showcasing examples of our work for CV purposes.
+The team consisted of two members (Phillip Papadakis https://github.com/phrp720 and  Yfantis Evaggelos https://github.com/octoper) and the work was more or less equally distributed. This repo is a public read-only copy of the original, created for showcasing examples of our work for CV purposes.
 
 
 ## How to compile and how to run it.
